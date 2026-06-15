@@ -1,0 +1,9 @@
+name: Philadelphia JavaScript Developers
+active: true
+website: https://www.meetup.com/philadelphia-javascript-developers/
+ical: https://www.meetup.com/philadelphia-javascript-developers/events/ical/
+categories:
+- programming-languages
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

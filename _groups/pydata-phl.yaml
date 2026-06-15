@@ -1,0 +1,9 @@
+name: PyData PHL
+active: true
+website: https://www.meetup.com/pydata-phl/
+ical: https://www.meetup.com/pydata-phl/events/ical/
+categories:
+- data
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

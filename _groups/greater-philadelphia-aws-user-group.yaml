@@ -1,0 +1,9 @@
+name: Greater Philadelphia AWS User Group
+active: true
+website: https://www.meetup.com/gpawsug/
+ical: https://www.meetup.com/gpawsug/events/ical/
+categories:
+- cloud
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

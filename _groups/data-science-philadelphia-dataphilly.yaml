@@ -1,0 +1,9 @@
+name: Data Science Philadelphia (DataPhilly)
+active: true
+website: https://www.meetup.com/dataphilly/
+ical: https://www.meetup.com/dataphilly/events/ical/
+categories:
+- data
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

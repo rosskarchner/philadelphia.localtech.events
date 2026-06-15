@@ -1,0 +1,9 @@
+name: AI Philly
+active: true
+website: https://www.meetup.com/ai-philly/
+ical: https://www.meetup.com/ai-philly/events/ical/
+categories:
+- ai
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

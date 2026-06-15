@@ -1,0 +1,9 @@
+name: Self-Taught Software Developers
+active: true
+website: https://www.meetup.com/philadelphia-self-taught-developers-meetup-group/
+ical: https://www.meetup.com/philadelphia-self-taught-developers-meetup-group/events/ical/
+categories:
+- software-development
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

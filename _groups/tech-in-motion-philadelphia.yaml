@@ -1,0 +1,9 @@
+name: "Tech in Motion: Philadelphia"
+active: true
+website: https://www.meetup.com/techinmotionphilly/
+ical: https://www.meetup.com/techinmotionphilly/events/ical/
+categories:
+- career-and-professional-development
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

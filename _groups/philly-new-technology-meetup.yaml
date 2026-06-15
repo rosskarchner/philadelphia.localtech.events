@@ -1,0 +1,9 @@
+name: Philly New Technology Meetup
+active: true
+website: https://www.meetup.com/philly-new-tech-meetup/
+ical: https://www.meetup.com/philly-new-tech-meetup/events/ical/
+categories:
+- software-development
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

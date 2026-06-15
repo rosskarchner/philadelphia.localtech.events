@@ -1,0 +1,16 @@
+# Philadelphia, PA Tech Events Configuration
+site_name: "Philadelphia, PA Tech Events"
+tagline: Technology conferences and meetups in and around Philadelphia, PA
+base_url: https://philadelphia.localtech.events
+add_events_link: https://philadelphia.localtech.events/edit/submit-event.html
+newsletter_signup_link: https://newsletter.philadelphia.localtech.events/
+
+timezone: "US/Eastern"   # Use correct IANA tz for this city
+
+location: "Philadelphia, PA"
+max_distance_miles: 40
+
+github_client_id: ""
+oauth_callback_endpoint: "https://add.philadelphia.localtech.events/oauth/callback"
+github_sponsors_token: ""
+dynamodb_table: "PhiladelphiaTechEvents"

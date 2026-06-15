@@ -1,0 +1,9 @@
+name: Philly Data & AI
+active: true
+website: https://www.meetup.com/philly-data-and-ai/
+ical: https://www.meetup.com/philly-data-and-ai/events/ical/
+categories:
+- ai
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

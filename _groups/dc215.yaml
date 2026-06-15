@@ -1,0 +1,9 @@
+name: DC215
+active: true
+website: https://www.meetup.com/secshell/
+ical: https://www.meetup.com/secshell/events/ical/
+categories:
+- cybersecurity
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false

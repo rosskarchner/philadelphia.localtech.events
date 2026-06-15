@@ -1,0 +1,9 @@
+name: Ladies that UX, Philadelphia
+active: true
+website: https://www.meetup.com/ladies-that-ux-philadelphia/
+ical: https://www.meetup.com/ladies-that-ux-philadelphia/events/ical/
+categories:
+- ux-design
+suppress_urls: false
+suppress_guid: false
+scan_for_metadata: false
